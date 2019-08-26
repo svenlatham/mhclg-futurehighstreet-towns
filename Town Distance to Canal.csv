@@ -1,101 +1,101 @@
-Town Centre,Local Authority,Funding Tranche,Distance (mi)
-Rotherham,Rotherham,1,0
-Harlow Town Centre,Harlow,2,0
-Walsall,Walsall,1,0.1
-Stockton,Stockton-on-Tees,1,0.1
-Taunton,Somerset West and Taunton,1,0.2
-Kidderminster,Wyre Forest,1,0.2
-Blackfriars - Northern City Centre (Worcester),Worcester,2,0.2
-Brierley Hill High Town Centre,Wolverhampton,2,0.2
-Elland Town Centre,Calderdale,2,0.2
-Birkenhead; New Ferry,Wirral,1,0.2
-Sheffield High Street,Sheffield,1,0.3
-Nelson,Pendle,1,0.3
-Wigan,Wigan,1,0.3
-Wolverhampton City Centre (West),Wolverhampton,1,0.4
-Huddersfield,Kirklees,1,0.4
-Doncaster Waterdale,Doncaster,2,0.5
-"Nottingham City Centre, West End Point",Nottingham,1,0.5
-Northampton,Northampton,1,0.5
-Leamington Town Centre,Warwick,2,0.5
-Winsford,Cheshire West and Chester,1,0.6
-Wakefield City Centre,Wakefield,1,0.6
-Nuneaton Town Centre,Nuneaton and Bedworth,2,0.6
-Tottenham High Road,Haringey,1,0.7
-Rochdale Town Centre,Rochdale,2,0.7
-Tamworth Town Centre,Tamworth,2,0.8
-Farnworth,Bolton,1,0.9
-Trowbridge,Wiltshire,2,1
-Erdington,Birmingham,1,1.2
-Grantham,South Kesteven,2,1.4
-Heanor,Amber Valley,1,1.4
-Halifax,Calderdale,1,1.5
-Stafford,Stafford,1,1.5
-Runcorn Old Town,Halton,2,1.6
-Newcastle-under-Lyme Town Centre,Newcastle-under-Lyme,2,1.6
-Chorley,Chorley,1,2
-Oldham,Oldham,1,2.1
-Middlesbrough Centre,Middlesbrough,2,2.1
-Bolton Town Centre,Bolton,2,2.2
-Old Kent Road,Southwark,1,2.2
-Kingswood,South Gloucestershire,2,2.3
-Morecambe,Lancaster,1,2.4
-Stockport,Stockport,1,2.7
-Crewe,Cheshire East,1,3.1
-Wealdstone,Harrow,2,3.2
-Kirkham Town Centre,Fylde,2,3.2
-Woolwich Town Centre,Greenwich,2,3.2
-Stretford,Trafford,1,3.3
-Scunthorpe,North Lincolnshire,2,3.7
-Putney Town Centre,Wandsworth,2,4.2
-"Derby City Centre, St Peters Cross",Derby,1,4.2
-Barrow Town Centre,Barrow,2,4.7
-Buxton,High Peak,1,5.6
-Coalville,North West Leicestershire,1,5.6
-Bacup Town Centre,Rossendale,2,5.9
-Darlington,Darlington,1,6.4
-Cinderford Town Centre,Forest of Dean,2,7.2
-Fleetwood,Wyre,1,8.2
-Mansfield,Mansfield,1,8.5
-High Wycombe,Wycombe,2,9.6
-Blackpool Town Centre,Blackpool,2,9.8
-Dartford,Dartford,1,10.4
-Northallerton,Hambleton,2,10.5
-Sutton,Sutton,1,10.9
-Holbeach,South Holland,2,12.4
-Swindon,Swindon,1,13.8
-Grays Town Centre,Thurrock,2,13.9
-Loftus,Redcar and Cleveland,2,16
-Bishop's Auckland,Durham,1,16
-Yeovil,South Somerset,1,17.8
-Salisbury City Centre,Wiltshire,2,18.7
-"Hull City Centre, Whitefriargate",Kingston Upon Hull,1,19.6
-Barnsley Town Centre,Barnsley,2,20.5
-King's Lynn,King's Lynn and West Norfolk,1,23.7
-Sunderland City Centre,Sunderland,1,23.8
-Chatham,Medway,1,24.5
-Grimsby Town Centre,North East Lincolnshire,2,27.9
-Scarborough Town Centre,Scarborough,2,29.7
-March High Street,Fenland,1,30
-South Shields,South Tyneside,1,30.4
-St Neots,Huntingdonshire,2,30.4
-Heart of the City Quarter (Southampton),Southampton,2,34.1
-Whitehaven,Copeland,1,37.5
-Blyth Town Centre,Northumberland,2,39.4
-Newton Abbot,Teignbridge,2,39.8
-Carlisle City Centre,Carlisle,2,40
-Maryport Town Centre,Allerdale,2,40.6
-Commercial Road,Portsmouth,2,40.8
-Fratton,Portsmouth,2,41.4
-Clacton Town Centre,Tendring,2,41.7
-Poole,"Bournemouth, Christchurch and Poole",1,42.5
-Barnstaple,North Devon,2,42.9
-Paignton,Torbay,2,44.6
-Bideford,Torridge,2,48.5
-Newhaven,Lewes,1,49.8
-Sutton,Ashfield,2,50.9
-Plymouth City Centre,Plymouth,2,63.5
-Ramsgate,Thanet,2,64.1
-Dover Town Centre and Waterfront,Dover,2,68.5
-Great Yarmouth,Great Yarmouth,1,84
-Penzance,Cornwall,1,130
+Town Centre,Local Authority,Funding Tranche,Nearest Canal,Distance (mi),Distance (km)
+Rotherham,Rotherham,1,Sheffield & South Yorkshire Nav - 004,0,0
+Harlow Town Centre,Harlow,2,River Stort - 008,0,0
+Stockton,Stockton-on-Tees,1,Tees Navigation - 002,0.1,0.2
+Walsall,Walsall,1,Walsall Town Arm (Walsall Canal) - 001,0.1,0.2
+Taunton,Somerset West and Taunton,1,Bridgwater & Taunton Canal - 024,0.2,0.3
+Birkenhead; New Ferry,Wirral,1,Morpeth Dock - 001,0.2,0.4
+Kidderminster,Wyre Forest,1,Staffordshire & Worcestershire Cnl - 007,0.2,0.3
+Elland Town Centre,Calderdale,2,Calder & Hebble Navigation - 006,0.2,0.4
+Brierley Hill High Town Centre,Wolverhampton,2,Dudley No 1 Canal - 001,0.2,0.4
+Blackfriars - Northern City Centre (Worcester),Worcester,2,River Severn Navigation - 048,0.2,0.4
+Nelson,Pendle,1,Leeds & Liverpool Canal - 126,0.3,0.5
+Sheffield High Street,Sheffield,1,Sheffield & Tinsley Canal - 001,0.3,0.5
+Wigan,Wigan,1,Leeds & Liverpool Canal - 056,0.3,0.5
+Huddersfield,Kirklees,1,Huddersfield Narrow Canal - 001,0.4,0.7
+Wolverhampton City Centre (West),Wolverhampton,1,Old Main Line - 003,0.4,0.7
+Northampton,Northampton,1,Northampton Arm (GU Canal) - 008,0.5,0.8
+Leamington Town Centre,Warwick,2,Grand Union Canal - 042,0.5,0.8
+Doncaster Waterdale,Doncaster,2,Sheffield & South Yorkshire Nav - 028,0.5,0.8
+"Nottingham City Centre, West End Point",Nottingham,1,Nottingham & Beeston Canal - 007,0.5,0.8
+Winsford,Cheshire West and Chester,1,Weaver Navigation - 033,0.6,0.9
+Wakefield City Centre,Wakefield,1,Wakefield Branch (Aire & Calder) - 001,0.6,0.9
+Nuneaton Town Centre,Nuneaton and Bedworth,2,Coventry Canal - 017,0.6,1
+Tottenham High Road,Haringey,1,Lee Navigation - 009,0.7,1.1
+Rochdale Town Centre,Rochdale,2,Rochdale Canal - 032,0.7,1.2
+Tamworth Town Centre,Tamworth,2,Coventry Canal - 042,0.8,1.3
+Farnworth,Bolton,1,"Bolton Arm (Man'r, Bolton & Bury) - 001",0.9,1.4
+Trowbridge,Wiltshire,2,Kennet & Avon Canal - 102,1.1,1.7
+Erdington,Birmingham,1,Birmingham & Fazeley Canal - 008,1.2,2
+Heanor,Amber Valley,1,Cromford Canal - 003,1.4,2.3
+Grantham,South Kesteven,2,Grantham Canal - 001,1.4,2.3
+Halifax,Calderdale,1,Halifax Branch (Calder & Hebble) - 001,1.5,2.4
+Stafford,Stafford,1,Staffordshire & Worcestershire Cnl - 068,1.5,2.4
+Runcorn Old Town,Halton,2,Weaver Navigation - 004,1.6,2.5
+Newcastle-under-Lyme Town Centre,Newcastle-under-Lyme,2,Trent & Mersey Canal - 056,1.6,2.6
+Chorley,Chorley,1,Llangollen Canal - 012,2,3.2
+Oldham,Oldham,1,Rochdale Canal - 043,2.1,3.4
+Middlesbrough Centre,Middlesbrough,2,Tees Navigation - 001,2.1,3.4
+Old Kent Road,Southwark,1,Limehouse Basin - 001,2.2,3.6
+Bolton Town Centre,Bolton,2,"Bolton Arm (Man'r, Bolton & Bury) - 001",2.2,3.5
+Morecambe,Lancaster,1,Lancaster Canal - 053,2.4,3.9
+Kingswood,South Gloucestershire,2,Kennet & Avon Canal - 139,2.4,3.8
+Stockport,Stockport,1,Peak Forest Canal - 009,2.7,4.4
+Crewe,Cheshire East,1,Trent & Mersey Canal - 035,3,4.9
+Kirkham Town Centre,Fylde,2,Ribble Link - 011,3.2,5.2
+Wealdstone,Harrow,2,Paddington Arm (Grand Union Canal) - 008,3.2,5.2
+Woolwich Town Centre,Greenwich,2,Bow Creek - 003,3.2,5.2
+Stretford,Trafford,1,Manchester Bolton & Bury Canal - 002,3.3,5.3
+Scunthorpe,North Lincolnshire,2,Stainforth & Keadby Canal - 025,3.7,6
+Putney Town Centre,Wandsworth,2,Paddington Arm (Grand Union Canal) - 020,4.2,6.7
+"Derby City Centre, St Peters Cross",Derby,1,Trent & Mersey Canal - 139,4.2,6.7
+Barrow Town Centre,Barrow,2,Leeds & Liverpool Canal - 098,4.7,7.5
+Buxton,High Peak,1,Bugsworth Arm (Peak Forest Canal) - 001,5.6,9
+Coalville,North West Leicestershire,1,Ashby Canal - 030,5.6,9
+Bacup Town Centre,Rossendale,2,Leeds & Liverpool Canal - 117,5.8,9.4
+Darlington,Darlington,1,Tees Navigation - 022,6.4,10.3
+Cinderford Town Centre,Forest of Dean,2,Sharpness - Old arm - 001,7.2,11.6
+Fleetwood,Wyre,1,Glasson Branch (Lancaster Canal) - 005,8.3,13.3
+Mansfield,Mansfield,1,Cromford Canal - 002,8.5,13.6
+High Wycombe,Wycombe,2,Wendover Arm (Grand Union Canal) - 011,9.6,15.4
+Blackpool Town Centre,Blackpool,2,Ribble Link - 011,9.8,15.7
+Dartford,Dartford,1,Bow Creek - 003,10.4,16.7
+Northallerton,Hambleton,2,Tees Navigation - 023,10.5,16.9
+Sutton,Sutton,1,Paddington Arm (Grand Union Canal) - 022,10.9,17.6
+Holbeach,South Holland,2,River Witham - 051,12.4,20
+Swindon,Swindon,1,Kennet & Avon Canal - 062,13.8,22.2
+Grays Town Centre,Thurrock,2,Bow Creek - 003,13.9,22.4
+Bishop's Auckland,Durham,1,Tees Navigation - 022,16,25.8
+Loftus,Redcar and Cleveland,2,Tees Navigation - 001,16,25.8
+Yeovil,South Somerset,1,Bridgwater & Taunton Canal - 007,17.8,28.7
+Salisbury City Centre,Wiltshire,2,Kennet & Avon Canal - 070,18.7,30.1
+"Hull City Centre, Whitefriargate",Kingston Upon Hull,1,Stainforth & Keadby Canal - 025,19.6,31.5
+Barnsley Town Centre,Barnsley,2,River Severn Navigation - 021,20.4,32.9
+King's Lynn,King's Lynn and West Norfolk,1,River Witham - 051,23.7,38.2
+Sunderland City Centre,Sunderland,1,Tees Navigation - 002,23.7,38.2
+Chatham,Medway,1,Bow Creek - 003,24.5,39.4
+Grimsby Town Centre,North East Lincolnshire,2,River Witham - 021,28,45
+Scarborough Town Centre,Scarborough,2,Pocklington Canal - 001,29.7,47.8
+March High Street,Fenland,1,River Witham - 051,30,48.2
+South Shields,South Tyneside,1,Tees Navigation - 002,30.4,48.9
+St Neots,Huntingdonshire,2,Lee Navigation - 041,30.4,48.9
+Heart of the City Quarter (Southampton),Southampton,2,Kennet & Avon Canal - 034,34.1,54.8
+Whitehaven,Copeland,1,Lancaster Canal - 091,37.5,60.3
+Blyth Town Centre,Northumberland,2,Tees Navigation - 002,39.4,63.4
+Newton Abbot,Teignbridge,2,Bridgwater & Taunton Canal - 025,39.8,64.1
+Carlisle City Centre,Carlisle,2,Lancaster Canal - 091,40,64.3
+Maryport Town Centre,Allerdale,2,Lancaster Canal - 091,40.6,65.4
+Commercial Road,Portsmouth,2,Kennet & Avon Canal - 018,40.8,65.7
+Fratton,Portsmouth,2,Kennet & Avon Canal - 018,41.4,66.7
+Clacton Town Centre,Tendring,2,River Stort - 020,41.7,67.1
+Poole,"Bournemouth, Christchurch and Poole",1,Kennet & Avon Canal - 085,42.4,68.3
+Barnstaple,North Devon,2,Swansea Canal - 001,42.9,69.1
+Paignton,Torbay,2,Bridgwater & Taunton Canal - 025,44.6,71.8
+Bideford,Torridge,2,Swansea Canal - 001,48.5,78.1
+Newhaven,Lewes,1,Bow Creek - 003,49.8,80.2
+Sutton,Ashfield,2,River Stort - 020,51,82
+Plymouth City Centre,Plymouth,2,Bridgwater & Taunton Canal - 025,63.5,102.2
+Ramsgate,Thanet,2,River Stort - 017,64.1,103.2
+Dover Town Centre and Waterfront,Dover,2,River Stort - 012,68.5,110.2
+Great Yarmouth,Great Yarmouth,1,River Stort - 020,84,135.2
+Penzance,Cornwall,1,Swansea Canal - 001,130,209.2
